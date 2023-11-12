@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email Matching Regex
 
 Introductory paragraph (replace this with your text)
 
